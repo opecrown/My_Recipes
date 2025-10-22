@@ -1,0 +1,28 @@
+body {
+    font-family: Ariel, Helvetica, Sans-Serif;
+    background-color: white;
+}
+h1 {
+    color: black;
+    text-align: center;
+}
+h2 {
+    color: black;
+}
+
+p {
+    color: black;
+    line-height: 1.6;
+}
+p {
+    color: black;
+    line-height: 1.6;
+}
+p {
+    color: black;
+    line-height: 1.6;
+}
+
+* {
+  outline: 2px solid blue;
+}
